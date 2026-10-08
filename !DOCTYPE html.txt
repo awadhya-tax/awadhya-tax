@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awadhya Tax & Accounting Solutions | Financial Clarity & Compliance</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Header & Navigation -->
+    <header>
+        <nav class="container">
+            <div class="logo">
+                <h2>Awadhya Tax <span>& Accounting</span></h2>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container hero-content">
+            <h1>Financial Clarity & Regulatory Compliance</h1>
+            <p>Expert accounting, tax preparation, and corporate advisory services for growing businesses and SMEs in Bengaluru.</p>
+            <div class="hero-buttons">
+                <a href="https://wa.me/917903456967" class="btn btn-primary" target="_blank">
+                    <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+                </a>
+                <a href="#services" class="btn btn-secondary">Our Services</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services container">
+        <h2 class="section-title">Professional Offerings</h2>
+        <p class="section-subtitle">Tailored monetary and corporate solutions for your business needs.</p>
+        
+        <div class="service-grid">
+            <div class="service-card">
+                <i class="fas fa-calculator service-icon"></i>
+                <h3>Accounting & Bookkeeping</h3>
+                <p>Systematic maintaining of financial records, ledger balancing, and periodic financial statements.</p>
+            </div>
+            <div class="service-card">
+                <i class="fas fa-file-invoice-dollar service-icon"></i>
+                <h3>Taxation Services</h3>
+                <p>Complete GST filing, Income Tax Returns (ITR), tax planning, and regulatory audit readiness.</p>
+            </div>
+            <div class="service-card">
+                <i class="fas fa-balance-scale service-icon"></i>
+                <h3>Corporate Law & Compliance</h3>
+                <p>Company registration, ROC filings, secretarial compliance, and legal framework management.</p>
+            </div>
+            <div class="service-card">
+                <i class="fas fa-chart-line service-icon"></i>
+                <h3>Financial Consultancy</h3>
+                <p>Strategic advisory, cash flow optimization, working capital analysis, and budgeting solutions.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container about-container">
+            <div class="about-text">
+                <h2>Leadership & Expertise</h2>
+                <h3>Ketan Kumar <span>(B.Com, CA Intermediate)</span></h3>
+                <p>At <strong>Awadhya Tax & Accounting Solutions</strong>, we specialize in helping businesses navigate monetary regulations with ease. With strong financial foundations, we deliver reliable, efficient, and personalized consultancy designed to give you complete financial peace of mind.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact & Footer Section -->
+    <section id="contact" class="contact container">
+        <h2 class="section-title">Get In Touch</h2>
+        <p class="section-subtitle">Reach out today for consultation or service inquiries.</p>
+        
+        <div class="contact-cards">
+            <div class="contact-card">
+                <i class="fas fa-map-marker-alt"></i>
+                <h4>Address</h4>
+                <p>Sarjapura, Bengaluru, Karnataka</p>
+            </div>
+            <div class="contact-card">
+                <i class="fas fa-phone-alt"></i>
+                <h4>Phone</h4>
+                <p><a href="tel:+917903456967">+91 7903456967</a></p>
+            </div>
+            <div class="contact-card">
+                <i class="fas fa-envelope"></i>
+                <h4>Email</h4>
+                <p><a href="mailto:ketanawadhya@gmail.com">ketanawadhya@gmail.com</a></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <p>&copy; Awadhya Tax & Accounting Solutions. All rights reserved.</p>
+            <a href="https://wa.me/917903456967" class="whatsapp-float" target="_blank" title="Chat on WhatsApp">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </div>
+    </footer>
+
+</body>
+</html>
